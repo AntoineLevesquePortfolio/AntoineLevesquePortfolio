@@ -2,6 +2,7 @@
 <h2> Coucou c'est moi Antoine j'apprend actuelement, oui oui la tout de suite
   </h2>
   </div>
+  [Mon beau CV](https://github.com/AntoineLevesquePortfolio/AntoineLevesquePortfolio/blob/main/cv.pdf)
 <!--
 **AntoineLevesquePortfolio/AntoineLevesquePortfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

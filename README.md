@@ -10,7 +10,7 @@
   
 <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png"/>
   
-  <img width="70px" src="https://www.referencedmd.com/wp-content/uploads/2018/01/BANDEAU-ARTICLE.png"/>
+[<img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png"/>](https://www.linkedin.com/in/antoine-levesque-7555971b7/)
 <!--
 **AntoineLevesquePortfolio/AntoineLevesquePortfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

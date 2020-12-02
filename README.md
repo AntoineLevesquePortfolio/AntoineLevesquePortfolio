@@ -7,9 +7,7 @@
  [mon beau CV](https://github.com/AntoineLevesquePortfolio/AntoineLevesquePortfolio/blob/main/cv.pdf)
  
   </div>
-  
-<img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png"/>
-  
+    
 [<img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png"/>](https://www.linkedin.com/in/antoine-levesque-7555971b7/)
 <!--
 **AntoineLevesquePortfolio/AntoineLevesquePortfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

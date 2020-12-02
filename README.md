@@ -8,7 +8,7 @@
  
   </div>
   
-<img width="60px" src="upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />
+<img width="60px" src="upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png"/>
   
   <img width="70px" src="https://www.referencedmd.com/wp-content/uploads/2018/01/BANDEAU-ARTICLE.png"/>
 <!--

@@ -4,7 +4,7 @@
   </div>
  <div align="center"> 
   
- [mon beau Cévé](https://github.com/AntoineLevesquePortfolio/AntoineLevesquePortfolio/blob/main/cv.pdf)
+ [mon beau CV](https://github.com/AntoineLevesquePortfolio/AntoineLevesquePortfolio/blob/main/cv.pdf)
  
   </div>
 <!--

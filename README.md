@@ -7,6 +7,8 @@
  [mon beau CV](https://github.com/AntoineLevesquePortfolio/AntoineLevesquePortfolio/blob/main/cv.pdf)
  
   </div>
+  
+  <img width="70px" src="https://www.referencedmd.com/wp-content/uploads/2018/01/BANDEAU-ARTICLE.png"/>
 <!--
 **AntoineLevesquePortfolio/AntoineLevesquePortfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
